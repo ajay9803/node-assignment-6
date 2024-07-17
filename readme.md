@@ -16,6 +16,9 @@ This is a Node.js application for managing users and their to-do items. The appl
 - Use of helmet-package to be safe from web-vulnerabilites
 - Use of Cors for to allow safe domains
 
+## Object Relational Mapping  
+Using **Knex** and **pg**
+
 ## Installation
 
 1. Clone the repository:
@@ -24,5 +27,4 @@ This is a Node.js application for managing users and their to-do items. The appl
 2. Install packages:  
    npm install
 
-## Object Relational Mapping  
-Using **Knex** and **pg**
+
